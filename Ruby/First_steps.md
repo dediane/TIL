@@ -1,10 +1,11 @@
-#.puts : put a string on the output with a line break
+_puts_ : put a string on the output with a line break
 
 ex: ```puts "Hello world!"
 Hello World```
 
+<br>
 
-#.print : put a string without line break
+_print_ : put a string without line break
 
 ex: ```print "Hello"
 print "World"```
