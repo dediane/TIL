@@ -1,4 +1,4 @@
-#Ruby Basic language syntax
+# Ruby Basic language syntax
 
 **puts** : put a string on the output with a line break
 
