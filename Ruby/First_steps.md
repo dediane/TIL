@@ -4,8 +4,7 @@
 
 **puts** : put a string on the output with a line break
 
-ex: ```puts "Hello world!"
-Hello World```
+ex: ```puts "Hello world!"```
 
 <br><br>
 
