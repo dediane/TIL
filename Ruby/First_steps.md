@@ -1,3 +1,5 @@
+#Ruby Basic language syntax
+
 **puts** : put a string on the output with a line break
 
 ex: ```puts "Hello world!"
