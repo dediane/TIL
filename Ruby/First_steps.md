@@ -1,5 +1,7 @@
 # Ruby Basic language syntax
 
+<br>
+
 **puts** : put a string on the output with a line break
 
 ex: ```puts "Hello world!"
