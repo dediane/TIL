@@ -29,11 +29,11 @@ ex: ```year = gets.chomp.to_i``` -> gets integer from the user input
 incremented variable |i|
 
 ex ```5.times do |i|
-  puts i
+puts i  
 end```
 
 ```0
 1
 2
 3
-4```
+4
