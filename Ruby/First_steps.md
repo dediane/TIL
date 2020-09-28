@@ -7,6 +7,4 @@ Hello World```
 #.print : put a string without line break
 
 ex: ```print "Hello"
-    print "World"
-    
-    HelloWorld```
+print "World"```
