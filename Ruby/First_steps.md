@@ -22,6 +22,11 @@ ex: ```name = gets.chomp```
 ex: ```year = gets.chomp.to_i``` -> gets integer from the user input
 
 <br>
+
+**.chop** : remove last caracter of the string
+
+ex: ```name = gets.chop```
+ex: ```name.chop = dian```
 <br>
 
 ## Loops in Ruby
