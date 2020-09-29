@@ -4,6 +4,11 @@
 
 **.inspect** == cat -e
 
+**.downto**
+
+**.upto**
+
+
 **puts** : put a string on the output with a line break
 
 ex: ```puts "Hello world!"```
