@@ -2,6 +2,8 @@
 
 <br>
 
+**.inspect** == cat -e
+
 **puts** : put a string on the output with a line break
 
 ex: ```puts "Hello world!"```
