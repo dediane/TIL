@@ -36,6 +36,23 @@ ex: ```name = gets.chop```
 ex: ```name.chop = dian```
 <br>
 
+##Class is Ruby
+
+```"Hello".class<br>
+=> String<br>
+
+14000.class<br>
+=> Integer<br>
+
+3.5.class<br>
+=> Float<br>
+
+true.class<br>
+=> TrueClass<br>
+
+false.class<br>
+=> FalseClass<br>```
+
 ## Loops in Ruby
 
 incremented variable |i|
