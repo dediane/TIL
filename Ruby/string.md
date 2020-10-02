@@ -6,10 +6,10 @@ delete the letters you give in input from the original string
 
 example 
 `remove all vowels:`  
-`string = "hello world"   
-string.delete("aeiou") => hll wrld   
-string = "heLLO World"   
-string.delete("aeiouAEIOU" => hLL Wrld`  
+`string = "hello world" `    
+`string.delete("aeiou") => hll wrld`    
+`string = "heLLO World"`   
+`string.delete("aeiouAEIOU" => hLL Wrld`  
 
 -----------------------------
 
@@ -18,9 +18,9 @@ string.delete("aeiouAEIOU" => hLL Wrld`
 count how many times you can find the letters given in input throught quotes
 
  example
-`counting vowels:   
-string = "hello world"   
-string.count "aeiou" => 3`  
+`counting vowels:`  
+`string = "hello world"`   
+`string.count "aeiou" => 3`  
 
 ---------------------------------
 
