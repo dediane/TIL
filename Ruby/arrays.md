@@ -1,4 +1,4 @@
-# Arrays in Ruby language 
+# Arrays & Hashes in Ruby language 
 
 ### Declaration of an array in Ruby:
 
@@ -9,3 +9,33 @@
 **.push**
 
  push dans un array
+ 
+ ### puts two arrays in an hash 
+ 
+ **array1** is an array of *keys*
+ **array2** is an array of *values*
+ 
+ ```hash= Hash[array1.zip(array2.map {|i|})]```
+ 
+ ### Calculate the length of an array:
+ 
+ ```myarray.length```
+ or 
+ ```myarray.size```
+ 
+ ex : ```myarray = ["hello", "salut", "ciao"]
+ myarray.size => 3```
+ 
+ **.select**
+ 
+ select elements in an array that we can stock in a new array or that we can display with "puts"
+ 
+ example in a hash: ```array_tostock = myhash.select {|k,v| v == 0}```
+ this line will stock the value equal to zero in the *array_tostock* from the hash *myhash*
+ 
+ 
+ 
+ 
+ 
+ 
+ 
