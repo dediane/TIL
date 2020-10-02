@@ -43,7 +43,12 @@
  to sort alphabetical without case -> myarray.sort(&:casecmp)
  
  
+ **.max & .min**
  
+ .min and .max are 2 methods to find the max value and the min value in an array.
+ ex: ```myarray = [1, 2, 3]
+ myarray.min => 1
+ myarray.max => 3```
  
  
  
