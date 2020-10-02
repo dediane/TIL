@@ -15,7 +15,7 @@ string.delete("aeiouAEIOU" => hLL Wrld``
 count how many times you can find the letters given in input throught quotes
 
 #### example 
-``counting vowels: ``
-``string = "hello world" ``
-``string.count "aeiou" => 3``
+``counting vowels: ``<br>
+``string = "hello world" ``<br>
+``string.count "aeiou" => 3``<br>
 
