@@ -22,5 +22,30 @@ count how many times you can find the letters given in input throught quotes
 `string = "hello world"`   
 `string.count "aeiou" => 3`  
 
----------------------------------
+--------------------------------
 
+**.strip**
+
+enlève les espaces au début et à la fin 
+
+--------------------------------
+
+**.reverse**
+
+inverse un String.
+
+exemple: 
+`str = "hello"`
+`str.reverse => "olleh"`
+
+--------------------------------
+
+**.upcase**
+
+Transforme le String en majuscule.
+
+exemple: 
+`str = "hello"`
+`str.reverse => "HELLO"`
+
+--------------------------------
