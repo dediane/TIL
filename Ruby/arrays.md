@@ -51,5 +51,11 @@
  myarray.max => 3```
  
  
- 
+**.delete**
+
+supprime des éléments d'un array
+
+**.include?**
+
+permet de savoir si un array contient une valeur, renvoie True ou False
  
