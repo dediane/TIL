@@ -48,4 +48,14 @@ exemple:
 `str = "hello"`
 `str.reverse => "HELLO"`
 
---------------------------------
+-------------------------------
+
+**.chars**
+
+Transforme la string en array de Characters.
+
+exemple:
+`str = "hello"   
+str.chars = ["h", "e", "l", "l", "o"]`
+
+
