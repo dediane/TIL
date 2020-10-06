@@ -36,6 +36,14 @@ ex: ```name = gets.chop```
 ex: ```name.chop = dian```
 <br>
 
+**.ord**
+
+Convert a character to his ASCII value
+
+**.chr**
+
+Convert an ASCII value to his character
+
 ##Class is Ruby
 
 ```"Hello".class<br>
