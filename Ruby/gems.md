@@ -26,5 +26,12 @@ Via la gem, ton programme pourra faire appel au contenu de ce fichier pour utili
   end
   return client
 end`
+
+**Tweeter quelque chose**
+
+`client.update("quelque chose")`
+
+
+
 ------------------------------------
 
