@@ -58,4 +58,8 @@ supprime des éléments d'un array
 **.include?**
 
 permet de savoir si un array contient une valeur, renvoie True ou False
+
+**.sample(n)**
+
+permet de selectionner aléatoirement "n" objets de ton array.
  
