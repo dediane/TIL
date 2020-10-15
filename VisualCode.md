@@ -8,8 +8,13 @@ Select the whole line
 
 Move the entire line
 
-**CMD + MAJ + /**
+**CMD + SHIFT + /**
 
 Puts in comments the whole selection
+
+**CMD + SHIFT + L**
+
+Select all occurencies equals to the selection
+
 
 

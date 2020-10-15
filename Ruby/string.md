@@ -48,6 +48,16 @@ exemple:
 `str = "hello"`
 `str.reverse => "HELLO"`
 
+--------------------------------
+
+**.downcase**
+
+Transforme le String en minuscule.
+
+exemple: 
+`str = "HELLO"`
+`str.reverse => "hello"`
+
 -------------------------------
 
 **.chars**
