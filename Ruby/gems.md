@@ -46,4 +46,22 @@ Via la gem, ton programme pourra faire appel au contenu de ce fichier pour utili
 
 ------------------------------------
 
+## Gem Colorize
+
+<p>Gem qui permet de colorer le text lorsqu'on l'affiche sur le Terminal.   
+Permet une jolie syntaxe.</p>
+
+**.red** / **.blue**
+
+Colore en rouge/bleu le texte
+
+**.black.on_white**
+
+Colore le fond en blanc et le texte en noir.
+
+
+ex: 
+<p align=center><img src="https://camo.githubusercontent.com/6fa26496720b5bda64100615d92b8bf00dd5e470/68747470733a2f2f692e6962622e636f2f383658326a42382f436170747572652d642d652d6372616e2d323032302d31302d31362d612d30302d31312d31392e706e67"></p>
+
+--------------------------------------
 
