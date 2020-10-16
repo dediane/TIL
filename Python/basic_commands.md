@@ -24,3 +24,9 @@ ex:  nom = input("Quel est ton nom?\n")
 
 ------
 
+**Convertir une variable numerique en string**
+
+num = 30
+print "Tu as " + str(num) + " ans."
+
+-------
