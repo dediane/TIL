@@ -13,9 +13,9 @@
 
 </p>
 
-## Utilisation des TABLES
+# Utilisation des TABLES
 
-**Creation de table 'user' example**
+## Creation de table 'user' example**
 
 <p>Avec la commande <b>AUTOINCREMENT</b>, on laisse la base de données s'occuper de l'incrémentation automatique de l'id : à chaque fois qu'une entrée sera créée dans la table user, elle portera un nouvel id (égal au dernier id + 1). </p>
 
@@ -27,9 +27,8 @@ CREATE TABLE `user` (
 `age` INTEGER
 );
 ```
-----------------
 
-**Accéder aux élements de la TABLE**
+## Accéder aux élements de la TABLE**
 
 <p>Lire l'ensemble de la table users</p>
 
