@@ -6,10 +6,10 @@
 
 <p>Liste des commandes: 
 
-<ul>Create = `INSERT`</ul>
-<ul>Read = `SELECT`</ul>
-<ul>Update = `UPDATE`</ul>
-<ul>Delete = `DELETE`</ul>
+<li>Create = `INSERT`</li>
+<li>Read = `SELECT`</li>
+<li>Update = `UPDATE`</li>
+<li>Delete = `DELETE`</li>
 
 </p>
 
