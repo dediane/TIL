@@ -27,6 +27,7 @@ CREATE TABLE `user` (
 `age` INTEGER
 );
 ```
+----------------
 
 **Accéder aux élements de la TABLE**
 
