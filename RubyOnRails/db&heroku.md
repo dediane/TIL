@@ -3,26 +3,26 @@
 ## Data Base basic commands for postgresql
 
 **Create a DB**
-```bash
+```ruby
 rails db:create
 ```
 
 **Create a migration**
-```bash
+```ruby
 rails g migration User name:string email:string
 ```
 
 **Upload the migration**
-```shell
+```ruby
 rails db:migrate
 ```
  
 **Check migration status**
-```shell
+```ruby
 rails db:migrate:status
 ```
 **Reset the db**
-```shell
+```ruby
 rails db:drop
 ```
 <p><b>Warning </b>-> you need do re do a db:create to generate a new empty DB.</p>
