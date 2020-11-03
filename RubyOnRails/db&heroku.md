@@ -3,12 +3,12 @@
 ## Data Base basic commands for postgresql
 
 **Create a DB**
-```shell
+```bash
 rails db:create
 ```
 
 **Create a migration**
-```shell
+```bash
 rails g migration User name:string email:string
 ```
 
