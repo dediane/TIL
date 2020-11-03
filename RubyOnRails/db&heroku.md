@@ -26,25 +26,49 @@ rails db:migrate:status
 rails db:drop
 ```
 <p><b>Warning </b>-> you need do re do a db:create to generate a new empty DB.</p>
+
+**Generate a model/migration/controller**
+```ruby
+rails g model/migration/controller Name
+rails generate model/migration/controller Name
+```
+
+**Delete a model/migration/controller generated**
+```ruby
+rails d model/migration/controller Name
+rails destroy model/migration/controller Name
+```
 ---------------------------------
 
 # HEROKU
 
 **Heroku Reset database**
-```shell
+```ruby
 heroku pg:reset DATABASE_URL
 ```
 
 **Recreate DB initialized**
-```shell
+```ruby
 heroku run rake db:migrate  
 ```
 
 **Seed the DB on Heroku**
-```shell
+```ruby
 heroku run rake db:seed
 ````
 
+**See Config Heroku**
+```ruby
+heroku config
+```
 
+**Config something on Heroku**
+```ruby
+heroku config:set SENDGRID_USERNAME=myusername
+```
 
-
+**Get config of something on Heroku**
+```ruby
+heroku config:get SENDGRID_USERNAME
+=> myusername
+```
