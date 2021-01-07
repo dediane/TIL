@@ -19,3 +19,5 @@
 - $ **git ls -files** permet de voir la liste de fichiers sur le repo git  
 - $ **git checkout .** si tu es un commit behind "origin", prends pas en compte les modifications que tu n'as pas commit -> ensuite on peut faire le git pull pour être au même niveau   
 - $ **git --set-upstream**  set le repo github en remote lorsque on le crée grace à gh cli
+- $ **git branch nom_branche** creer une branch 
+- $ **git checkout nom_branche** se positionner sur la branche
