@@ -1,7 +1,7 @@
 # DOCKER MOST USED COMMAND
 
 ## Build a container
-``docker build -t -d [image]``
+``docker build -t -d [image name] [path to the dockerfile]``
 
 ### voir les containers actifs:
 ``docker ps``
