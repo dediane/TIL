@@ -14,3 +14,10 @@
 #### forcer la suppression d'un container actif:
 ``docker rm -f [container]``
 
+#### voir les images docker:
+``docker images``
+
+#### supprimer des images docker:
+``docker rmi [nom del'image]``
+#### run un container
+``docker run [nom du container]``
