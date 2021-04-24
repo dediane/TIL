@@ -21,3 +21,6 @@
 ``docker rmi [nom del'image]``
 #### run un container
 ``docker run [nom du container]``
+
+#### run vers shell d'un container:
+``docker run -ti [nom du container]```
