@@ -22,7 +22,10 @@
 - $ **git branch nom_branche** creer une branch 
 - $ **git checkout nom_branche** se positionner sur la branche
 
-## Exemple de workflow 
+
+
+
+# Exemple de workflow 
 
 
 ### CREER UNE NOUVELLE FEATURE:
