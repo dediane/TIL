@@ -26,9 +26,9 @@
 
 
 ### CREER UNE NOUVELLE FEATURE:
-**git checkout development**
+**git checkout development** 
 **git pull origin development**
-**git checkout -b feature/test**
+**git checkout -b feature/test** 
 
 ### PUSH SUR LA FEATURE:
 **git status** -> Vérifier que les modifications sont reliés à votre feature, sinon suprimer les modifications (éventuellement les sauvegarder pour les reporter sur une autre feature)
