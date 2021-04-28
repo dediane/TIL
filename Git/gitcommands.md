@@ -21,3 +21,34 @@
 - $ **git --set-upstream**  set le repo github en remote lorsque on le crée grace à gh cli
 - $ **git branch nom_branche** creer une branch 
 - $ **git checkout nom_branche** se positionner sur la branche
+
+## Exemple de workflow 
+
+
+### CREER UNE NOUVELLE FEATURE:
+**git checkout development**
+**git pull origin development**
+**git checkout -b feature/test**
+
+### PUSH SUR LA FEATURE:
+**git status** -> Vérifier que les modifications sont reliés à votre feature, sinon suprimer les modifications (éventuellement les sauvegarder pour les reporter sur une autre feature)
+**git add ...**  les fichiers un à un ( git add . autorisé au premier commit et les grosses modifs liées à un feature )
+**git commit -m "votre commentaire"**
+Premier push de la feature: **git push --set-upstream origin feature/test**
+Push suivants de la feature: **git push** -> Push de la feature sur le serveur
+
+### MERGE LA FEATURE AVEC LE DEVELOPMENT:
+**git checkout development
+git pull origin development
+git checkout - 
+git merge development
+git checkout development 
+git merge feature/test
+git checkout - 
+git push** -> Push de la feature avec les merges sur le serveur
+
+GERER ET INTEGRER UNE PULL REQUEST:
+Créer une Pull Request (PR)
+Demander à un membre du groupe de :
+Vérifier, valider la review et merge la PR
+Ne pas suprimer la branche de la feature
