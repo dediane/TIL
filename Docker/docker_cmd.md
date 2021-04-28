@@ -23,4 +23,10 @@
 ``docker run [nom du container]``
 
 #### run vers shell d'un container:
-``docker run -ti [nom du container]```
+``docker run -ti [nom du container]``
+
+#### delete all container:
+``docker rm -f $(docker ps -a -q)``
+
+#### delete all images:
+``docker rmi -f $(docker images)``
