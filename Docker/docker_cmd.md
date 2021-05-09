@@ -31,7 +31,7 @@
 #### delete all images:
 ``docker rmi -f $(docker images)``
 
-#### run container:
+### run container:
 ``docker run -ti -p80:80 -p443:443 [NAME]``
 ``docker run -ti --env AUTOINDEX=on -p80:80 -p443:443 [NAME]``
 
