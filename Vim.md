@@ -7,4 +7,5 @@
 ```maj + v then select your line and press Return```
 
 #### delete 10 lines
-```:10dd````
+```:10dd```
+
