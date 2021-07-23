@@ -23,6 +23,8 @@
 - $ **git branch nom_branche** creer une branch 
 - $ **git checkout nom_branche** se positionner sur la branche
 
+différence git reset -> définitif / git revert -> non définitif
+
 
 
 
