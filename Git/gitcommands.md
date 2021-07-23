@@ -9,7 +9,8 @@
 - $ **git checkout SHA** permet de revenir en mode lecture uniquement au commit SHA  
 - $ **git checkout master** permet de revenir au commit actuel  
 - $ **git reset --hard SHA** permet de tout effacer pour revenir au commit SHA  
-- $ **git reset --hard** permet de tout effacer pour revenir au dernier commit  
+- $ **git reset --hard** permet de tout effacer pour revenir au dernier commit 
+- $ **git revert SHA** permet d'annuler un commit 
 - $ **git stash** permet de sauvegarder provisoirement son travail sans le commit  
 - $ **git stash pop** permet de récupérer un travail précédemment sauvegardé avec git stash  
 - $ **git remote -v** permet de voir les différentes remotes de ton repo git  
