@@ -22,6 +22,7 @@
 - $ **git --set-upstream**  set le repo github en remote lorsque on le crée grace à gh cli
 - $ **git branch nom_branche** creer une branch 
 - $ **git checkout nom_branche** se positionner sur la branche
+- $ **git branch -d [nom_de_la_branche]** ppermet de supprimer une branche en local
 
 différence git reset -> définitif / git revert -> non définitif
 
@@ -44,7 +45,7 @@ différence git reset -> définitif / git revert -> non définitif
 - Push suivants de la feature: **git push** -> Push de la feature sur le serveur
 
 ### MERGE LA FEATURE AVEC LE DEVELOPMENT:
-- **git checkout development
+- **git checkout development**
 - git pull origin development
 - git checkout - 
 - git merge development
