@@ -8,6 +8,7 @@
 - $ **git log** permet d'afficher l'historique des commits  
 - $ **git checkout SHA** permet de revenir en mode lecture uniquement au commit SHA  
 - $ **git checkout master** permet de revenir au commit actuel  
+- $ **git checkout -- <nom du fichier>** permet de revenir a la derniere version git du fichier en local. (efface toutes les modifs du fichier qui n'ont pas été push.
 - $ **git reset --hard SHA** permet de tout effacer pour revenir au commit SHA  
 - $ **git reset --hard** permet de tout effacer pour revenir au dernier commit 
 - $ **git revert SHA** permet d'annuler un commit 
