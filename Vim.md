@@ -9,3 +9,5 @@
 ### delete 10 lines
 ```:10dd```
 
+### auto indent
+```gg=G```
