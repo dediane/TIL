@@ -22,4 +22,4 @@ set autoindent
 set mouse=a
 set backspace=indent,eol,start
 set ruler
-set number```
+set number
