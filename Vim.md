@@ -11,3 +11,15 @@
 
 #### auto indent
 ```gg=G```
+
+
+## 42 exam VIM config
+Open .vimrc (vim .vimrc)
+Puts the following commands:
+```syntax on
+filetype on
+set autoindent
+set mouse=a
+set backspace=indent,eol,start
+set ruler
+set number```
