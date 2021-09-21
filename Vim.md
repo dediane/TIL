@@ -1,13 +1,13 @@
 # Vim commands helper
 
-### delete the current line
+#### delete the current line
 ```dd```
 
-### delete multiple lines
+#### delete multiple lines
 ```maj + v then select your line and press Return```
 
-### delete 10 lines
+#### delete 10 lines
 ```:10dd```
 
-### auto indent
+#### auto indent
 ```gg=G```
