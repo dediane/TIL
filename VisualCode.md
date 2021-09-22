@@ -4,11 +4,15 @@
 
 Select the whole line
 
-**option + arrow up or arrow down**
+**Alt + Up/Down**
 
 Move the entire line
 
-**CMD + arrow up**
+**Shift + Alt + Up/Down**
+
+Duplicate the entire selected line
+
+**CMD + Up**
 
 Goes back at the top of the file
 
