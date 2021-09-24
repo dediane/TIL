@@ -24,7 +24,9 @@ Puts in comments the whole selection
 
 Select all occurencies equals to the selection
 
-**
+**CMD + SHIFT + K**
+
+Delete thewhole line 
 
 
 
