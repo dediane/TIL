@@ -1,6 +1,6 @@
 # LLDB EASY DEBUG
 
-Add he flag -g3 when you compile your program.
+Add the flag -g when you compile your program.
 
 <hr>
 
