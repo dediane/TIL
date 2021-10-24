@@ -15,3 +15,7 @@ tests by passing arguments with this command in lldb:
 
 
 ```run "your arguments" ```
+
+```fr v``` -> print variable
+
+```print env->t_to_sleep``` -> print variable
