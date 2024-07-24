@@ -1,0 +1,17 @@
+
+git checkout develop 
+
+
+git fetch origin  
+
+git pull origin develop
+ 
+git checkout feat/something
+  
+git rebase develop 
+
+fix conflict 
+
+git rebase --continue 
+
+git push 
