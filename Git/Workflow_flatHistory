@@ -1,7 +1,6 @@
 
 git checkout develop 
 
-
 git fetch origin  
 
 git pull origin develop
